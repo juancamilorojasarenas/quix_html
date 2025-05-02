@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: auto;
+    height: 150px;
+    background-color: aquamarine;
+    border: 3px solid pink;
+}
+
+
+h1.title{
+    background-color: blueviolet;
+    border-style: dotted;
+    border-color: black;
+    color: white;
+}
+
+
+nav{
+    background-color: red;
+}
+
+p{
+    background-color: orange;
+    text-decoration: underline;
+}
+
+small{
+    color: red;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+fieldset{
+    border-color: blue;
+}
+
+ul, li, a {
+    color:white;
+   
+}
+
+.temario {
+    color: rgb(103, 57, 179);
+}
